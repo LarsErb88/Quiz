@@ -1,0 +1,61 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#2e2e2e</item>
+        <item name="colorPrimaryDark">#000000</item>
+        <item name="colorAccent">@android:color/white</item>
+    </style>
+
+    <!-- Style for the Headers in the CardViews (Questions). -->
+    <style name="HeaderTextStyle">
+        <item name="android:background">#000000</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:layout_marginBottom">16dp</item>
+        <item name="android:layout_marginTop">16dp</item>
+    </style>
+
+    <!-- Style for the RadioButtons. -->
+    <style name="RadioButtonStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:buttonTint">@android:color/white</item>
+        <item name="android:paddingLeft">24dp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <!-- Style for the CheckBoxes. -->
+    <style name="CheckBoxStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:buttonTint">@android:color/white</item>
+        <item name="android:paddingLeft">24dp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:background">#0D47A1</item>
+    </style>
+
+    <!-- Style for the RadioGroups. -->
+    <style name="RadioGroupStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">#0D47A1</item>
+        <item name="android:checkedButton">1</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <!-- Style for the CardViews. -->
+    <style name="CardViewStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">9dp</item>
+    </style>
+
+</resources>

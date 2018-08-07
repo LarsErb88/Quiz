@@ -1,0 +1,45 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" translatable="false">Quiz App</string>
+
+    <!-- RadioButtons -->
+    <string name="QuestionA">1. Question: How many stars and how many stripes are on the American flag?</string>
+    <string name="wrongStarsText">40 stars</string>
+    <string name="rightStarsText">50 stars</string>
+    <string name="rightStripesText">13 stripes</string>
+    <string name="wrongStripesText">11 stripes</string>
+
+    <string name="QuestionB">2. Question: Where is the Broadway?</string>
+    <string name="NY" translatable="false">New York</string>
+    <string name="LA" translatable="false">Los Angeles</string>
+    <string name="B" translatable="false">Boston</string>
+    <string name="SF" translatable="false">San Francisco</string>
+
+    <string name="QuestionC">3. Question: Who was the first man on the moon? </string>
+    <string name="NeilA" translatable="false">Neil Armstrong</string>
+    <string name="SigmundJ" translatable="false">Sigmund Jähn</string>
+    <string name="GermanT" translatable="false">German Titow</string>
+    <string name="JuriG" translatable="false">Juri Gagarin</string>
+
+    <string name="QuestionD">4. Question: What\'s the name of a famous desert in the USA?</string>
+    <string name="Green" translatable="false">Green Valley</string>
+    <string name="Death" translatable="false">Death Valley</string>
+    <string name="Silicon" translatable="false">Silicon Valley</string>
+    <string name="Sahara" translatable="false">Sahara</string>
+
+    <string name="QuestionE">5. Question: In which flag can you see the Union Jack?</string>
+    <string name="USA" translatable="false">USA</string>
+    <string name="Canada" translatable="false">Canada</string>
+    <string name="Australia" translatable="false">Australia</string>
+    <string name="Africa" translatable="false">South Africa</string>
+
+    <string name="QuestionF">6. Question: How many stars are on the American flag?</string>
+
+    <!-- EditText Hint -->
+    <string name="your_name">Your name</string>
+    <string name="your_answer">Your answer</string>
+
+    <!-- Evaluation button -->
+    <string name="evaluation">Result</string>
+
+
+</resources>

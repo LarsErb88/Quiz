@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="QuestionA">1. Frage: Wie viel Sterne und wie viel Streifen sind auf der amerikanischen Flagge abgebildet?</string>
+    <string name="QuestionB">2. Frage: Wo ist der Broadway?</string>
+    <string name="QuestionC">3. Frage: Wer war der erste Mann auf dem Mond?</string>
+    <string name="QuestionD">4. Frage: Wie lautet der Name einer berühmten Wüste in den USA?</string>
+    <string name="QuestionE">5. Frage: In welcher Flagge wird das Union Jack verwendet?</string>
+    <string name="QuestionF">6. Frage: Wie viele Sterne sind auf der amerikanischen Flagge?</string>
+    <string name="your_name">Ihr Name</string>
+    <string name="your_answer">Ihre Antwort</string>
+    <string name="evaluation">Ergebnis</string>
+    <string name="wrongStarsText">40 Sterne</string>
+    <string name="rightStarsText">50 Sterne</string>
+    <string name="rightStripesText">13 Streifen</string>
+    <string name="wrongStripesText">11 Streifen</string>
+</resources>
